@@ -1,0 +1,11 @@
+# IDE files
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data outputs
+data/arima_forecast_output.csv
+plots/
